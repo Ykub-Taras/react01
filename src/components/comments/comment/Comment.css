@@ -1,4 +1,4 @@
-.postBlock {
+.commentBlock {
     margin: 5px;
     width: 40vw;
     padding: 10px;
@@ -8,4 +8,9 @@
 
 .block {margin: 10px;
     background-color: #c5f7f2
+}
+
+span {
+    font-style: italic;
+    font-weight: normal;
 }
